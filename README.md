@@ -1,7 +1,3 @@
-Based on the extracted files from your project, here's a detailed README that focuses on the functionality and structure of your code:
-
----
-
 # ReactNativeRaptorsApp
 
 ## Overview
@@ -68,6 +64,3 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
----
-
-This README focuses on the code and its functionality. If you need further customization, let me know!
