@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Matt Thomas",
+    "age": 25,
+    "team": "Raptors",
+    "imageUrl": "https://img.bleacherreport.net/img/images/photos/003/908/589/hi-res-03386281500443bb1adb91d35f2cce76_crop_north.jpg?1616696148&w=3072&h=2048",
+    "position": "Guard"
+  },
+  {
+    "name": "Yuta Watanabe",
+    "age": 26,
+    "team": "Raptors",
+    "imageUrl": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F04%2Ftoronto-raptors-yuta-watanabe-standard-contract-signing-announcement-001.jpg?cbr=1&q=90",
+    "position": "Forward"
+  },
+  {
+    "name": "Rondae Hollis-Jefferson",
+    "age": 27,
+    "team": "Raptors",
+    "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_fill,w_1200,ar_4:3,f_auto,q_auto,g_auto/shape/cover/sport/19795373ddd10dc3aa8de0c0abf31075a81c219a87965af9df620168d08e3ef4.jpg",
+    "position": "Forward"
+  }
+]
